@@ -66,8 +66,8 @@ Loading
 
 <!-- Links of Definitions -->
 
-[linkedin]: 
+[linkedin]: https://twitter.com/sucy_1903
 [gmail]: mailto:edgcuong@gmail.com "Lets connect through email"
-[stackoverflow]: 
+[stackoverflow]: https://twitter.com/sucy_1903
 [github]: https://github.com/CuongVnZ
 [twitter]: https://twitter.com/sucy_1903
