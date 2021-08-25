@@ -7,10 +7,8 @@
 <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CuongVnZ&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/KarthikNayak024/KarthikNayak024/actions">
-   <img alt="github-activity" src="https://github.com/KarthikNayak024/KarthikNayak024/workflows/update-gh-activity/badge.svg">
-  </a>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/CuongVnZ/CuongVnZ?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
