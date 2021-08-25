@@ -66,9 +66,8 @@ Loading
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/karthik-nayak24
-[gmail]: mailto:karunayak63@gmail.com "Lets connect through email"
-[stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
-[github]: https://github.com/KarthikNayak024
-[licence]: https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
-[twitter]: https://twitter.com/KarthikNayak98
+[linkedin]: 
+[gmail]: mailto:edgcuong@gmail.com "Lets connect through email"
+[stackoverflow]: 
+[github]: https://github.com/CuongVnZ
+[twitter]: https://twitter.com/sucy_1903
