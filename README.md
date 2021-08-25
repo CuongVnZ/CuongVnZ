@@ -12,7 +12,20 @@
 
 </br>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+<div>
+cpp  
+                                    void life(void)
+                                    {
+                                      printf("Hi 👋, I'm Dipankar \n");
+                                      printf("A passionate kernel hacker from India \n");
+                                      char currentlyLearning[] = "openWRT";
+                                      char AskMeAbout[] = "Linux";
+                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                    }
+
+
+</div>
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
