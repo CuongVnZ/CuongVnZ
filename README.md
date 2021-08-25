@@ -3,14 +3,15 @@
 ---
 
 <p align="center">
-<a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
+<a href="https://github.com/CuongVnZ/CuongVnZ/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CuongVnZ&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/CuongVnZ/CuongVnZ?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
 </p>
+
 </br>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
@@ -79,7 +80,6 @@
 </a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
 
 <!-- <img src="https://madewithlove.now.sh/in?heart=true&colorA=%23000000&colorB=%23dc0000&template=for-the-badge️" alt="Made with love in India️"> -->
-</p>
 
 <!-- Links of Definitions -->
 
