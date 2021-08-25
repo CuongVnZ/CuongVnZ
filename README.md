@@ -17,9 +17,9 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- Line 1.
-- Line 2.
-- Line 3.
+- I'm vietnamese developer. I'm 18
+- Please visit my blogs at:
+- And also take a look at my portfolio: 
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
