@@ -17,8 +17,8 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm vietnamese developer. I'm 18
-- Please visit my blogs at:
+- I'm vietnamese developer. I'm 18 + 1
+- Please visit my blogs at: eldrie.xyz
 - And also take a look at my portfolio: 
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
