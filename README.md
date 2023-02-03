@@ -19,7 +19,7 @@
 
 - I'm vietnamese developer. I'm 18 + 1
 - Please visit my blogs at: eldrie.xyz
-- And also take a look at my portfolio: 
+- And also take a look at my resume: https://cuongvnz.github.io/
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
