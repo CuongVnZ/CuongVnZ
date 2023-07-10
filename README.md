@@ -53,11 +53,12 @@
 
 ## 🛠️ **Languages & Tools:**
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!-- ![Vim](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim) -->
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
@@ -83,8 +84,8 @@
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://twitter.com/sucy_1903
-[gmail]: mailto:edgcuong@gmail.com "Lets connect through email"
+[linkedin]: https://www.linkedin.com/in/cuong-nguyen-chi
+[gmail]: mailto:edgcuong@gmail.com
 [stackoverflow]: https://twitter.com/sucy_1903
 [github]: https://github.com/CuongVnZ
 [twitter]: https://twitter.com/sucy_1903
