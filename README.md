@@ -15,9 +15,9 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm vietnamese developer. I'm 18 + 1
+- I'm vietnamese developer. I'm 18 + 2
 - Please visit my blogs at: eldrie.xyz
 - And also take a look at my resume: https://cuongvnz.github.io/
 
