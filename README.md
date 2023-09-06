@@ -67,8 +67,8 @@
 
 ## 🌐 **Connect to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-sucy--cuong-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-edgcuong@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/LinkedIn-cuong--nguyen--chi-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-eldrienguyen@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
 [<img src="https://img.shields.io/badge/Github-CuongVnZ-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 [<img src="https://img.shields.io/badge/Stackoverflow-sucy--cuong-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Twitter-@sucy_1903-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
@@ -85,7 +85,7 @@
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/cuong-nguyen-chi
-[gmail]: mailto:edgcuong@gmail.com
+[gmail]: mailto:eldrienguyen@gmail.com
 [stackoverflow]: https://twitter.com/sucy_1903
 [github]: https://github.com/CuongVnZ
 [twitter]: https://twitter.com/sucy_1903
