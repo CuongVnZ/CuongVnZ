@@ -13,13 +13,12 @@
 </br>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
-</br>
+<!-- </br> -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - I'm a Vietnamese developer. I'm 18 + 2
-- Please visit my blogs at: eldrie.xyz
-- Also take a look at my profile: https://cuongvnz.github.io/
+- Please visit my profile: https://cuongvnz.github.io/
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
