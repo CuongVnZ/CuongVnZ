@@ -11,7 +11,7 @@
 </br>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
-<!-- </br> -->
+</br></br></br></br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
@@ -19,7 +19,7 @@
 - Please visit my profile: https://cuongvnz.github.io/
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-</br></br></br></br></br></br>
+</br></br></br>
 
 ## 📈 **Github Stats:**
 
