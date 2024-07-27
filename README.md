@@ -1,7 +1,5 @@
 # <p align="center">️ **Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Eldrie** </p>
 
----
-
 <p align="center">
 <a href="https://github.com/CuongVnZ/CuongVnZ/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
