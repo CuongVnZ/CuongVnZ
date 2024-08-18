@@ -8,7 +8,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/CuongVnZ/CuongVnZ?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 </br></br>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif" style="z-index:1000">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 - I'm a Vietnamese developer. I'm 18 + 3
