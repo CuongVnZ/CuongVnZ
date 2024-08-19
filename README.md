@@ -1,4 +1,4 @@
-# <p align="center">️ **Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px">I'm Eldrie** </p>
+# <p align="center">️ **Hello!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Eldrie** </p>
 
 <p align="center">
 <a href="https://github.com/CuongVnZ/CuongVnZ/blob/master/LICENCE">
@@ -7,8 +7,9 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=CuongVnZ&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/CuongVnZ/CuongVnZ?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
-</br></br>
+<br>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
+<br>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="z-index:1000;"> **About Me**
 - I'm a Vietnamese developer. I'm 18 + 3
