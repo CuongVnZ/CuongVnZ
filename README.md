@@ -9,6 +9,7 @@
 </p>
 </br>
 </br>
+</br></br>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
 </br>
