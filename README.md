@@ -20,7 +20,7 @@
 
 ## 📈 **Github Stats:**
 
-<div align=center>
+<div>
   <!--
    <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/electron%20-%23e34f26.svg?&style=for-the-badge&logo=electron&logoColor=white" />
