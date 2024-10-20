@@ -11,8 +11,8 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="z-index:1000;"> **About Me**
-- I'm a Vietnamese developer. I'm 18 + 3
-- Please visit my profile: https://cuongvnz.github.io
+- I'm a Vietnamese Dev. I'm 18 + 3
+- Visit my profile: https://cuongvnz.github.io
 </br>
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
