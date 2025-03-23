@@ -1,4 +1,4 @@
-# <p align="center">️ **Yo!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Eldrie** </p>
+# <p align="center">️ **Yooo!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Eldrie** </p>
 
 <p align="center">
 <a href="https://github.com/CuongVnZ/CuongVnZ/blob/master/LICENCE">
@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="z-index:1000;"> **About Me**
-- I'm a Vietnamese Dev. I'm 18 + 3
+- I'm a Vietnamese Dev. I'm 18 + 4
 - Visit my profile: https://cuongvnz.github.io
 </br>
 
