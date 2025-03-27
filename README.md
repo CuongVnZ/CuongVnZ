@@ -58,7 +58,7 @@
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/cuong-nguyen-chi
+[linkedin]: https://www.linkedin.com/in/ccuong
 [gmail]: mailto:eldrienguyen@gmail.com
 [stackoverflow]: https://twitter.com/sucy_1903
 [github]: https://github.com/CuongVnZ
