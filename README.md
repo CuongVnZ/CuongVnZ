@@ -1,4 +1,4 @@
-# <p align="center">️ **Yooo!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Eldrie** </p>
+# <p align="center">️ **Yooo!! <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Eddie** </p>
 
 <p align="center">
 <a href="https://github.com/CuongVnZ/CuongVnZ/blob/master/LICENCE">
