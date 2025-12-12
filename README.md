@@ -44,7 +44,7 @@
 ## 🌐 **Contact** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-ccuong-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin] </br>
-[<img src="https://img.shields.io/badge/Stackoverflow-sucy--cuong-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] </br>
+<!--[<img src="https://img.shields.io/badge/Stackoverflow-sucy--cuong-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] </br>
 [<img src="https://img.shields.io/badge/Twitter-@sucy_1903-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter] </br>
 
 </br>
