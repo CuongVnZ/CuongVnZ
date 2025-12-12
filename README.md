@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/fS4cWezsJoXPYzLR45/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="z-index:1000;"> **About Me**
-- I'm a Im a viet australian dev. I'm 18 + 4
+- I'm a viet australian dev. I'm 18 + 4
 - Visit my profile: https://cuongvnz.github.io
 </br>
 
